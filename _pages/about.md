@@ -21,7 +21,7 @@ Hi, I'm Anqi Chen. I am an undergraduate student (Sep. 2023 - Present) in School
 
 My research interests lie at the intersection of robot learning, embodied AI, and multimodal perception, with a focus on developing robotic systems that can perceive complex environments, reason under uncertainty, and act robustly. 
 My goal is to build robots that tightly integrate perception, control, and decision-making to enable dexterous manipulation and autonomous behavior. 
-I am also broadly interested in bio-inspired AI design.
+I am also broadly interested in bio-inspired AI design and social simulations.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -62,3 +62,5 @@ Kaiying Wang, Yuting Yang, Mingjun Liao, Anqi Chen
 <!-- # 💬 Invited Talks -->
 
 <!-- # 💻 Internships -->
+
+# 👾 Projects
