@@ -43,7 +43,7 @@ Jiacheng Yang$^{\ast}$, **Anqi Chen**$^{\ast}$, Yunkai Dang, Qi Fan, Cong Wang, 
 
 
 - [The School Bus Routing Problem: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S2950298525000327?fr=RR-9&ref=pdf_download&rr=9dbbc10bac2bf0af) [European Transport Studies]
-Kaiying Wang, Yuting Yang, Mingjun Liao, Anqi Chen
+Kaiying Wang, Yuting Yang, Mingjun Liao, **Anqi Chen**
 
 # 🎖 Honors and Awards
 <ul class="award-list">
@@ -63,4 +63,4 @@ Kaiying Wang, Yuting Yang, Mingjun Liao, Anqi Chen
 
 <!-- # 💻 Internships -->
 
-# 👾 Projects
+<!-- # 👾 Projects -->
